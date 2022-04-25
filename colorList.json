@@ -232,4 +232,5 @@
   {"name": "渐变-28", "colorValueHex": "#6b73ff To #0c19ff","bgi":"linear-gradient(to bottom right, #6b73ff, #0c19ff)"},
   {"name": "渐变-29", "colorValueHex": "#f0ff00 To #67d4e1","bgi":"linear-gradient(to bottom right, #f0ff00, #67d4e1)"},
   {"name": "渐变-30", "colorValueHex": "#67fe99 To #0fe8f0","bgi":"linear-gradient(to bottom right, #67fe99, #0fe8f0)"}
+
 ]
